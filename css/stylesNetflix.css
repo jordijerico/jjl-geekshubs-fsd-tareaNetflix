@@ -28,7 +28,6 @@ body {
 }
 
 /* Segunda parte de la barra superior */
-
 .box1-1 {
     grid-column: 3 / 6;
     display: flex;
@@ -36,7 +35,6 @@ body {
     justify-content: flex-end;
     gap: 25px;
     margin-right: 20px;
-
 }
 
 /* Estilos de todos los links */
